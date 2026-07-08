@@ -83,7 +83,7 @@ export default async function AdminDashboardOverview() {
             </div>
           ) : (
             <div className="space-y-4">
-              {latestPending.map((c) => (
+              {latestPending.map((c: any) => (
                 <div
                   key={c.id}
                   className="bg-slate-950 border border-slate-850 p-5 rounded-xl space-y-3"
