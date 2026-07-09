@@ -1,0 +1,1028 @@
+{
+  "admin": [
+    {
+      "username": "admin",
+      "password": "$2b$10$MvVrIvE3cl7JUtekz4Kpn.T0R51Wte8YUvP4.yHZ2tBnqSBlXs3e6",
+      "id": "2089734c-211c-499b-a91d-34974e212299",
+      "createdAt": "2026-07-09T09:17:17.302Z",
+      "updatedAt": "2026-07-09T09:17:17.302Z"
+    }
+  ],
+  "category": [
+    {
+      "name": "Student Stories",
+      "slug": "stories",
+      "description": "Authentic, raw, and validating narratives written by students who navigated deep academic and mental struggles.",
+      "id": "b5bc61bd-2292-4235-8b7c-3d59823ea8a9"
+    },
+    {
+      "name": "Psychology Explained",
+      "slug": "psychology",
+      "description": "Demystifying the biological and psychological processes behind anxiety, stress, and isolation.",
+      "id": "56cda553-02de-41d0-b44c-1517c8649f8e"
+    },
+    {
+      "name": "Campus Initiatives",
+      "slug": "initiatives",
+      "description": "Reporting on university projects, policy updates, and resources working to build safer campus environments.",
+      "id": "fc1f6e64-a516-4fc7-9769-46fd0761f121"
+    }
+  ],
+  "tag": [
+    {
+      "name": "Burnout",
+      "slug": "burnout",
+      "id": "a6e86e4a-d48e-4c13-9e03-c26a329da622"
+    },
+    {
+      "name": "Anxiety",
+      "slug": "anxiety",
+      "id": "963997f8-c950-4468-8de1-54754eae742e"
+    },
+    {
+      "name": "Isolation",
+      "slug": "isolation",
+      "id": "f272e035-d54f-404a-98b7-addfeeca9676"
+    },
+    {
+      "name": "Imposter Syndrome",
+      "slug": "imposter-syndrome",
+      "id": "e6a95b32-33bc-4a68-8d27-1f764e4bc722"
+    },
+    {
+      "name": "Recovery",
+      "slug": "recovery",
+      "id": "e5045b21-31a2-4527-8d3f-dee93d73c0d6"
+    },
+    {
+      "name": "Self-Care",
+      "slug": "self-care",
+      "id": "2411fcd3-6051-4876-bc06-556d199cda3b"
+    },
+    {
+      "name": "Academic Pressure",
+      "slug": "academic-pressure",
+      "id": "871cb36d-e108-46a5-b923-a72560ceab70"
+    }
+  ],
+  "article": [
+    {
+      "title": "Behind the Perfect GPA: Marcus's Journey Through High-Functioning Anxiety",
+      "slug": "behind-the-perfect-gpa",
+      "excerpt": "On the outside, Marcus was the model student. On the inside, his academic drive was fueled by a debilitating, invisible fear of failure.",
+      "content": "Marcus always laughed when people called him a superstar. Double major, president of the chemistry society, 4.0 GPA, and a guaranteed slot in a prestigious lab. He was the student advisors held up as a standard.\n\nBut in the quiet hours of 4:00 AM, Marcus sat on his bathroom floor, waiting for his chest to stop tightening. His hands shook so violently he could barely hold his coffee. To the campus, he was thriving. To himself, he was a single bad grade away from complete annihilation.\n\n### The Invisible Weight\n\nHigh-functioning anxiety is an insidious experience because it is actively reinforced by our systems. Every time Marcus stayed up for 36 hours straight to polish a paper, he received an \"A.\" The university rewarded his sleeplessness, his isolation, and his obsessive perfectionism.\n\n\"I felt like an imposter,\" Marcus recalls. \"I thought if I didn't get perfect grades, everyone would realize I didn't belong here. I associated my entire value as a human being with the red ink at the top of a exam paper.\"\n\nAs winter set in, the strategy failed. During a mid-term exam, Marcus stared at a question he couldn't immediately solve. The room began to spin. His breath caught in his throat. He ran out of the room, leaving his paper blank, and locked himself in a library stall. He couldn't breathe. It was his first panic attack.\n\n### Reaching Out\n\nThe turning point came when Marcus failed to show up for a lab presentation. His advisor, noticing the sudden absence, reached out not with a reprimand, but with a simple question: *\"How are you carrying all of this?\"*\n\nThat simple question shattered Marcus's defense mechanism. For the first time, he admitted he was drowning. Through counseling, Marcus began the long process of rebuilding his identity outside of his achievements.\n\nHe learned that vulnerability is not a weakness, but a vital defense against the psychological isolation of academic pressure. Today, Marcus has his GPA, but he also has his life.",
+      "readingTime": 6,
+      "status": "PUBLISHED",
+      "featuredImage": "/images/editorial_marcus.jpg",
+      "isStory": true,
+      "timeline": "[{\"time\":\"Sophomore Year\",\"text\":\"Marcus secures a 4.0 GPA but begins waking up at 4:00 AM daily driven by panic of failing.\"},{\"time\":\"Junior Year (Fall)\",\"text\":\"Withdraws from social circles. Replaces exercise and dinners with library cram sessions.\"},{\"time\":\"Junior Year (Winter)\",\"text\":\"Experiences his first panic attack in a chemistry lab, hiding in a bathroom stall.\"},{\"time\":\"Senior Year (Fall)\",\"text\":\"A failed mock exam triggers complete emotional collapse. Confides in an advisor.\"},{\"time\":\"Recovery Phase\",\"text\":\"Learns to decouple self-worth from grades through cognitive behavioral therapy.\"}]",
+      "copingStrategies": "[{\"title\":\"Box Breathing\",\"text\":\"When panic triggers, inhale for 4 seconds, hold for 4, exhale for 4, hold for 4. This resets the fight-or-flight nervous system.\"},{\"title\":\"Grades vs Worth Audit\",\"text\":\"Write down three things you value about yourself that have nothing to do with academic performance or professional success.\"},{\"title\":\"Micro-Outreaches\",\"text\":\"Text one friend just to say 'thinking of you'. It breaks the isolation loop without requiring exhausting social energy.\"}]",
+      "escalationExplanation": "High-functioning anxiety is heavily reinforced by external accolades. Marcus's coping mechanism was hyper-performance, which masked his underlying panic. Because his strategy worked to generate high grades, the underlying disorder was ignored until his biological limits were reached, triggering a somatic crisis (panic attack).",
+      "seoTitle": "High-Functioning Anxiety in College Students: Marcus's Story",
+      "seoDescription": "An editorial deep-dive into high-functioning academic anxiety. Learn how to spot warning signs and find coping mechanisms.",
+      "seoKeywords": "student anxiety, academic pressure, 4.0 gpa stress, mental wellness, college panic attack",
+      "faqSchema": "[{\"q\":\"What is high-functioning anxiety?\",\"a\":\"High-functioning anxiety refers to individuals who experience significant internal anxiety but appear highly successful, organized, and calm on the outside.\"},{\"q\":\"How can I tell if my stress is becoming unhealthy?\",\"a\":\"Warning signs include withdrawal from friends, obsessive worry over minor assignments, physical exhaustion, and relying on grades as your sole source of validation.\"}]",
+      "categoryId": "b5bc61bd-2292-4235-8b7c-3d59823ea8a9",
+      "id": "a5f23762-3f33-426f-962a-3f3b36117e38",
+      "publishedAt": "2026-07-09T09:17:17.319Z",
+      "tagIds": [
+        "963997f8-c950-4468-8de1-54754eae742e",
+        "871cb36d-e108-46a5-b923-a72560ceab70",
+        "e6a95b32-33bc-4a68-8d27-1f764e4bc722"
+      ]
+    },
+    {
+      "title": "Finding My Voice: Reconnecting After Freshman Isolation",
+      "slug": "finding-my-voice",
+      "excerpt": "Sarah thought college would be the time of her life. Instead, she spent her first three months staring at the walls of her dorm room, unable to bridge the gap.",
+      "content": "The brochure promised a vibrant community, late-night conversations, and instant lifelong friendships. But when Sarah arrived, the noise of freshman orientation felt like a wall she couldn't climb.\n\nWhile others seemed to form tight-knit squads within 48 hours, Sarah found herself eating dinner in a bathroom stall to avoid sitting alone in the dining hall. The isolation was physical, heavy, and silent.\n\n### The Retreat\n\n\"Isolation is a spiral,\" Sarah explains. \"You feel lonely, so you withdraw. But because you withdraw, you become lonelier. You start believing there is something fundamentally broken about you, that everyone else is playing a game you don't know the rules to.\"\n\nBy November, the walls of her dorm room felt like a cell. She started skipping morning lectures because the thought of walking into a crowded lecture hall alone made her stomach churn. Her grades slipped, which only added shame to her isolation.\n\n### The Power of Shared Experience\n\nThe turning point was accidental. While scrolling through a campus forum late at night, she saw an anonymous post: *\"I sit in my room listening to everyone else laugh in the hallway. I feel completely invisible.\"*\n\nThe post had dozens of comments. All saying: *\"Me too.\"*\n\n\"It was a lightning bolt,\" Sarah says. \"I wasn't the outlier. Half the people laughing in the hallways were probably terrified of going back to their empty rooms.\"\n\nSarah reached out to a peer support program. Step by step, she learned to tolerate the discomfort of initial interactions. Today, Sarah is an orientation leader. Her primary message to new students? \"If you feel lonely, you are in the majority. Let's talk about it.\"",
+      "readingTime": 5,
+      "status": "PUBLISHED",
+      "featuredImage": "/images/editorial_sarah.jpg",
+      "isStory": true,
+      "timeline": "[{\"time\":\"First Month\",\"text\":\"Sarah arrives on campus. Feels unable to relate to classmates who seem to have immediate friend groups.\"},{\"time\":\"Midterms\",\"text\":\"Stays in her dorm room 20+ hours a day. Skips meals to avoid eating alone in the dining hall.\"},{\"time\":\"November\",\"text\":\"Develops sleeping patterns where she sleeps through daytime classes, deepening her academic deficit.\"},{\"time\":\"December\",\"text\":\"Discovers an anonymous support circle that matches her with peer listeners who validate her feelings.\"},{\"time\":\"Spring\",\"text\":\"Joins campus affinity groups and begins sharing her story openly.\"}]",
+      "copingStrategies": "[{\"title\":\"The 10-Minute Walk Rule\",\"text\":\"Commit to leaving your room for just 10 minutes a day, regardless of destination. Exposure to light and nature disrupts depressive rumination.\"},{\"title\":\"Shared Silence\",\"text\":\"Find a public but low-interaction study spot like a library. Being around others without pressure to speak helps rebuild social comfort.\"},{\"title\":\"Safe Self-Disclosure\",\"text\":\"Share a minor vulnerability with a peer, e.g., 'I find it hard to settle in here.' Often, they will confess they feel the exact same way.\"}]",
+      "escalationExplanation": "Isolation thrives on shame and the cognitive distortion of uniqueness ('I am the only one feeling this'). Sarah's withdrawal was a defense mechanism to avoid the pain of rejection. It escalated because the physical layout of college dorms can facilitate complete physical isolation, making it easy to hide until academic performance collapses.",
+      "seoTitle": "Freshman Isolation & Loneliness: Sarah's Journey",
+      "seoDescription": "Overcoming freshman isolation in college. A student's honest story of fighting loneliness and building authentic community.",
+      "seoKeywords": "freshman isolation, college loneliness, making friends in college, student mental health",
+      "categoryId": "b5bc61bd-2292-4235-8b7c-3d59823ea8a9",
+      "id": "8e4496bd-e1b1-4b90-8c80-94ee0970bbd0",
+      "publishedAt": "2026-07-09T09:17:17.320Z",
+      "tagIds": [
+        "f272e035-d54f-404a-98b7-addfeeca9676",
+        "e5045b21-31a2-4527-8d3f-dee93d73c0d6"
+      ]
+    },
+    {
+      "title": "The Physiology of Academic Stress: Inside the Flight-or-Fight Response",
+      "slug": "physiology-of-academic-stress",
+      "excerpt": "Why does a final exam trigger the same evolutionary panic as running from a predator? Understanding the neuroscience of academic overload.",
+      "content": "Your palms are sweating. Your heart is hammering against your ribs. Your breathing is shallow, and your focus is locked on the paper in front of you. \n\nBiologically speaking, your brain doesn't know the difference between a Organic Chemistry final and a wolf leaping from the bushes. \n\nTo understand why academic stress feels so physically exhausting, we have to look under the hood at the autonomic nervous system.\n\n### The Evolutionary Hijack\n\nWhen you perceive a high-stakes event—like a grading deadline or a public presentation—your **amygdala** (the brain's emotional radar) sounds an alarm. It signals the hypothalamus, which activates your sympathetic nervous system.\n\nWithin milliseconds, a cascade of hormones is released:\n1. **Adrenaline**: Speeds up your heart rate, elevates your blood pressure, and boosts energy supplies.\n2. **Cortisol**: The primary stress hormone, which increases glucose in the bloodstream and alters immune system responses.\n\nThis system is magnificent for short-term survival. It redirects blood flow away from non-essential functions (like digestion and the prefrontal cortex—your rational thinking brain) and into your muscles.\n\n### The Modern Mismatch\n\nHere is the problem: a semester lasts fifteen weeks. \n\nIf you are constantly worrying about grades, your brain keeps the alarm system turned on. This is **chronic stress**. Because your prefrontal cortex is receiving less blood flow, your ability to retain information, problem-solve, and regulate emotions actually *decreases*.\n\n\"Studying harder when you are in fight-or-flight is biologically counterproductive,\" explains Dr. Elena Rostova, a cognitive neuroscientist. \"Your brain is physically locked out of its creative and analytical mode.\"\n\n### Downregulating the System\n\nTo study effectively, you must first signal to your body that it is safe.\n- **Physical Sighs**: Double inhale through the nose, followed by a long, slow exhale through the mouth. This immediately triggers the vagus nerve to slow down the heart rate.\n- **Somatic Grounding**: Feel your feet flat on the floor and describe five neutral objects in the room. This moves brain activity out of the amygdala and back into the sensory cortex.\n- **Strategic Rest**: Sleep is not a reward for studying; it is the biological process by which memories are consolidated. Without sleep, the brain cannot write new information to disc.",
+      "readingTime": 7,
+      "status": "PUBLISHED",
+      "featuredImage": "/images/editorial_science.jpg",
+      "isStory": false,
+      "escalationExplanation": null,
+      "seoTitle": "Academic Stress Neuroscience: Understanding Fight-or-Fight",
+      "seoDescription": "Why final exams trigger physical stress. Discover the neurology of academic anxiety and how to ground your nervous system.",
+      "seoKeywords": "academic stress, fight or flight, student brain, cortisol, science of anxiety",
+      "faqSchema": "[{\"q\":\"What is cortisol?\",\"a\":\"Cortisol is the body's primary stress hormone. It regulates glucose levels, increases brain activity, and controls responses in stressful environments.\"},{\"q\":\"How can I lower my cortisol levels during exams?\",\"a\":\"Engaging in moderate physical activity, getting consistent sleep, practicing mindfulness, and taking breaks away from screens can rapidly reduce circulating stress hormones.\"}]",
+      "categoryId": "56cda553-02de-41d0-b44c-1517c8649f8e",
+      "id": "db23e316-fdb8-4d69-b5cb-7114adedf431",
+      "publishedAt": "2026-07-09T09:17:17.321Z",
+      "tagIds": [
+        "a6e86e4a-d48e-4c13-9e03-c26a329da622",
+        "963997f8-c950-4468-8de1-54754eae742e",
+        "2411fcd3-6051-4876-bc06-556d199cda3b"
+      ]
+    },
+    {
+      "title": "Why Privacy in Mental Support is Non-Negotiable for College Students",
+      "slug": "why-privacy-matters",
+      "excerpt": "Fear of academic records, parental notifications, and peer stigma keep millions of students silent. Here is why privacy-first support is critical.",
+      "content": "In a recent survey of undergraduate students experiencing moderate to severe anxiety, a striking 62% reported they had actively avoided seeking support services. \n\nTheir primary reason? **Fear.**\n\nNot fear of therapy, but fear of the *consequences* of seeking help. Fear that their records would leak, that their parents would receive notifications, or that a diagnosis would impact their academic standing.\n\n### The Stigma of Records\n\nFor a student striving for medical school, law school, or high-finance careers, the perception of instability can feel like a professional death sentence. Many wrongly believe that visiting campus counseling will show up on their transcript or be disclosed during background checks.\n\nEven when counselors explain confidentiality, the institutional setting (a clinical building in the middle of campus where peers can see you enter) acts as a physical barrier to entry.\n\n### Why Privacy-First Systems Change the Equation\n\nTo break the barrier, support must be decentralized, anonymous, and user-controlled. \n1. **Low-friction exploration**: Students need to assess their symptoms without submitting their student ID number first.\n2. **Encrypted boundaries**: Digital wellness tools must treat user logs as sacred and unshareable.\n3. **Decoupled support**: Peer networks and wellness apps that sit outside the official university registrar build immediate trust.\n\nBy prioritizing privacy, we don't just protect data; we validate the student's agency. We allow them to explore their mental wellness at their own pace, free from the shadow of institutional surveillance.",
+      "readingTime": 4,
+      "status": "PUBLISHED",
+      "featuredImage": "/images/editorial_privacy.jpg",
+      "isStory": false,
+      "seoTitle": "Student Privacy in Mental Health Support | Eternia Journal",
+      "seoDescription": "Why privacy is the single most important factor for college students seeking mental health care.",
+      "seoKeywords": "student privacy, mental wellness confidentiality, HIPAA college, anonymous support",
+      "categoryId": "56cda553-02de-41d0-b44c-1517c8649f8e",
+      "id": "04cddaf6-8225-44a9-9346-89760a0b5b8b",
+      "publishedAt": "2026-07-09T09:17:17.322Z",
+      "tagIds": [
+        "f272e035-d54f-404a-98b7-addfeeca9676",
+        "2411fcd3-6051-4876-bc06-556d199cda3b"
+      ]
+    },
+    {
+      "title": "Eternia Secures 1st Position at VIT Bhopal Health Hackathon 2026: Building a Safer Space for Mental Wellness",
+      "slug": "eternia-secures-1st-position-at-vit-bhopal-health-hackathon-2026",
+      "excerpt": "Eternia achieved a remarkable milestone by securing 1st Position at the HealthHack 2026 held at VIT Bhopal. Competing against more than 1,700 teams, the Eternia team emerged as the overall winner with its innovative vision of creating a privacy-first platform for mental wellness.",
+      "content": "Eternia achieved a remarkable milestone by securing **1st Position at the HealthHack 2026 held at VIT Bhopal**. Competing against **more than 1,700 participating teams**, the Eternia team emerged as the overall winner with its innovative vision of creating a privacy-first platform for mental wellness.\n\nThis achievement reflects Eternia's commitment to solving real-world healthcare challenges through technology, innovation, and empathy. Winning among such a large number of participants demonstrates the platform's potential to create meaningful social impact.\n\n### Innovation Recognized at Health Hackathon 2026\n\nThe HealthHack 2026 at VIT Bhopal brought together over **1,700 teams**, all working to develop innovative solutions for healthcare-related challenges. The competition showcased ideas from talented students, innovators, and aspiring entrepreneurs across diverse domains.\n\nAmong this highly competitive field, the Eternia team stood out with its vision of creating an anonymous and judgment-free digital platform where individuals can openly share their thoughts, emotions, and personal struggles without revealing their identity.\n\nThe team's innovative approach, strong problem-solving mindset, and commitment to addressing mental wellness challenges earned **Eternia the First Prize**, making it one of the standout success stories of the event.\n\n### The Team Behind the Achievement\n\nThis achievement was made possible through the dedication and collaboration of the Team Eternia :\n\n* **Priyanshi Rathore** — Team Leader\n  Leading the vision, innovation strategy, and overall direction behind building Eternia as a privacy-first mental wellness platform.\n\n* **Yash Khatik** — Team Member\n  Contributing to the development and execution of the solution throughout the hackathon journey.\n\n* **Gaurav Shah** — Team Member\n  Supporting the team in refining, presenting, and demonstrating the innovative concept during the competition.\n\nTogether, the team transformed a meaningful idea into an award-winning solution that competed successfully against **more than 1,700 participating teams**, securing the **1st Prize** at VIT Bhopal Health Hackathon 2026.\n\n### Conclusion\n\nWinning the **HealthHack 2026** is more than just an award for Eternia—it is validation of the team's vision to create technology that puts people first.\n\nBy securing **1st Position among more than 1,700 competing teams**, Eternia demonstrated that innovation rooted in empathy and privacy can make a meaningful difference. This achievement marks an important milestone in Eternia's journey as it continues building a future where everyone has access to a safe, anonymous, and judgment-free space to seek support and express themselves.",
+      "readingTime": 4,
+      "status": "PUBLISHED",
+      "featuredImage": "/images/editorial_hackathon.jpg",
+      "isStory": false,
+      "seoTitle": "Eternia Wins VIT Bhopal Health Hackathon 2026",
+      "seoDescription": "Eternia secures 1st position at VIT Bhopal Health Hackathon 2026 out of 1,700+ teams with its privacy-first mental wellness platform.",
+      "seoKeywords": "VIT Bhopal, HealthHack 2026, mental wellness, privacy-first, health hackathon winner",
+      "categoryId": "fc1f6e64-a516-4fc7-9769-46fd0761f121",
+      "id": "7ff4f350-972d-49cd-916c-435c0e6c8907",
+      "publishedAt": "2026-07-09T09:17:17.323Z",
+      "tagIds": [
+        "e5045b21-31a2-4527-8d3f-dee93d73c0d6",
+        "2411fcd3-6051-4876-bc06-556d199cda3b"
+      ]
+    }
+  ],
+  "confession": [
+    {
+      "content": "Everyone here seems to have their life completely sorted out. I feel like an imposter who got in by mistake.",
+      "campus": "Boston University",
+      "status": "APPROVED",
+      "id": "d7645ddd-0f61-40a1-b9dd-26599b9f2731",
+      "createdAt": "2026-07-09T09:17:17.324Z"
+    },
+    {
+      "content": "I haven't told my parents I failed my chemistry midterm. They sacrifice so much for me to be here. The weight is eating me alive.",
+      "campus": "Northeastern University",
+      "status": "APPROVED",
+      "id": "73f1126e-8eb8-4baa-9953-d0b07f50bbfe",
+      "createdAt": "2026-07-09T09:17:17.326Z"
+    },
+    {
+      "content": "Campus counseling has a three-week waitlist. I had a panic attack today and didn't know who to call.",
+      "campus": "Harvard University",
+      "status": "APPROVED",
+      "id": "359e2a9d-7193-420b-8c5d-f94e626b39e0",
+      "createdAt": "2026-07-09T09:17:17.327Z"
+    },
+    {
+      "content": "I pretend to be busy studying at the library every weekend just so my roommates think I have a social life. I'm actually just staring at the wall.",
+      "campus": "MIT",
+      "status": "APPROVED",
+      "id": "4b4c1c8a-8af4-41bc-b244-1e99b8a36d98",
+      "createdAt": "2026-07-09T09:17:17.328Z"
+    },
+    {
+      "content": "I am in a group project where no one answers my messages. I feel like I'm completely invisible on this campus.",
+      "campus": "Boston College",
+      "status": "PENDING",
+      "id": "1f0fa599-503f-4fa6-840b-b3d9209eacde",
+      "createdAt": "2026-07-09T09:17:17.330Z"
+    }
+  ],
+  "survey": [
+    {
+      "title": "Academic Pressure & Expression",
+      "description": "Have you ever felt like you couldn't share your mental struggles because of academic pressure or fear of academic consequences?",
+      "options": "[\"Frequently\",\"Sometimes\",\"Rarely\",\"Never\"]",
+      "isActive": true,
+      "id": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "createdAt": "2026-07-09T09:17:17.331Z"
+    }
+  ],
+  "surveyResponse": [
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Frequently",
+      "id": "e9588c84-dd09-4690-8944-69f588f57aad",
+      "createdAt": "2026-07-09T09:17:17.333Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Frequently",
+      "id": "87b4c719-d30a-4741-be69-463dbbb84d2b",
+      "createdAt": "2026-07-09T09:17:17.334Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Frequently",
+      "id": "6c433a5b-8cde-4e47-b510-929e0b3dece8",
+      "createdAt": "2026-07-09T09:17:17.336Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Frequently",
+      "id": "fc8fe143-3232-4ddd-9cec-46e0983f747f",
+      "createdAt": "2026-07-09T09:17:17.337Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Frequently",
+      "id": "249faa3d-4220-4678-b7bc-f52209ee5fb5",
+      "createdAt": "2026-07-09T09:17:17.338Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Frequently",
+      "id": "62d46d70-ed73-4f61-bdea-0a6b889535d7",
+      "createdAt": "2026-07-09T09:17:17.340Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Frequently",
+      "id": "aedc6664-4c72-4b8a-bbe3-9ac33d801000",
+      "createdAt": "2026-07-09T09:17:17.341Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Frequently",
+      "id": "e041d23c-4b81-4025-bc39-3ebf6b78da5e",
+      "createdAt": "2026-07-09T09:17:17.342Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Frequently",
+      "id": "69f554d4-3064-42f6-a411-4cfd44a303b8",
+      "createdAt": "2026-07-09T09:17:17.343Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Frequently",
+      "id": "a4990f92-9169-4e65-beed-bad311b89cff",
+      "createdAt": "2026-07-09T09:17:17.345Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Frequently",
+      "id": "df86d35a-47bf-47e9-9ab7-9eccd5a5a355",
+      "createdAt": "2026-07-09T09:17:17.346Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Frequently",
+      "id": "3f70d1f9-e9c2-497b-95d6-552cc86ee124",
+      "createdAt": "2026-07-09T09:17:17.348Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Frequently",
+      "id": "8ca9731b-e106-42d3-a060-37d484ff5f61",
+      "createdAt": "2026-07-09T09:17:17.349Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Frequently",
+      "id": "d19560e9-1d52-4de3-a335-d672e6c14776",
+      "createdAt": "2026-07-09T09:17:17.350Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Frequently",
+      "id": "9cb589b7-8f3a-4061-92cb-b6693f4c59ac",
+      "createdAt": "2026-07-09T09:17:17.351Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Frequently",
+      "id": "7fe245d7-d06e-4b17-9bd3-855a533c92b2",
+      "createdAt": "2026-07-09T09:17:17.353Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Frequently",
+      "id": "7957c95a-bec7-4c05-b940-f35ba129595c",
+      "createdAt": "2026-07-09T09:17:17.355Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Frequently",
+      "id": "fc70a5b6-10c7-4c7e-83a3-f1e752cee53b",
+      "createdAt": "2026-07-09T09:17:17.356Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Frequently",
+      "id": "4c82e0de-584f-4855-9285-eb20b160686d",
+      "createdAt": "2026-07-09T09:17:17.357Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Frequently",
+      "id": "1d238d03-9c2c-4efd-93a8-8f65e2bae105",
+      "createdAt": "2026-07-09T09:17:17.358Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Frequently",
+      "id": "a49e558a-2009-4efe-a8e7-f2ba34e7e315",
+      "createdAt": "2026-07-09T09:17:17.360Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Frequently",
+      "id": "d9f9562d-04b6-4581-9620-7b01e075ef96",
+      "createdAt": "2026-07-09T09:17:17.362Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Frequently",
+      "id": "f168d86f-8aa4-4aa3-9a73-12abc21e7001",
+      "createdAt": "2026-07-09T09:17:17.363Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Frequently",
+      "id": "c7118499-b0ea-453d-ab54-9d522b0cfc51",
+      "createdAt": "2026-07-09T09:17:17.365Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Frequently",
+      "id": "5bf87280-3da4-4693-ae70-55500c37a8de",
+      "createdAt": "2026-07-09T09:17:17.366Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Frequently",
+      "id": "860300a7-1c30-4368-a39e-024fed9932b7",
+      "createdAt": "2026-07-09T09:17:17.369Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Frequently",
+      "id": "37305f1e-ccb2-4eb0-87f0-6621ab7f60e2",
+      "createdAt": "2026-07-09T09:17:17.370Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Frequently",
+      "id": "d19b36f4-f66c-46b6-a38f-f5073aa0900a",
+      "createdAt": "2026-07-09T09:17:17.372Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Frequently",
+      "id": "663572c6-8022-4e95-ac76-c965241f176e",
+      "createdAt": "2026-07-09T09:17:17.374Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Frequently",
+      "id": "4cbf8d22-b186-4a25-96f3-a47a350cccf5",
+      "createdAt": "2026-07-09T09:17:17.376Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Frequently",
+      "id": "8411cdc1-9b01-4e29-9a11-a577e0c0b3d2",
+      "createdAt": "2026-07-09T09:17:17.377Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Frequently",
+      "id": "7fb0312e-4338-4572-bce2-bc85572b52fd",
+      "createdAt": "2026-07-09T09:17:17.379Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Frequently",
+      "id": "dedf8987-7224-4ea8-af9a-7960401c9e06",
+      "createdAt": "2026-07-09T09:17:17.380Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Frequently",
+      "id": "cf03b6f2-27de-4b0e-92ae-d80b36a00d83",
+      "createdAt": "2026-07-09T09:17:17.381Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Frequently",
+      "id": "8e0a6f6c-f2aa-4e27-b87c-4855f8f8d263",
+      "createdAt": "2026-07-09T09:17:17.383Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Frequently",
+      "id": "31f6ca11-add0-418f-81ff-f1b9753f117e",
+      "createdAt": "2026-07-09T09:17:17.386Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Frequently",
+      "id": "d82b5844-8fe4-4568-9fe6-e17a6b066a43",
+      "createdAt": "2026-07-09T09:17:17.388Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Frequently",
+      "id": "deb3098f-ba81-4460-bf93-fd8756309037",
+      "createdAt": "2026-07-09T09:17:17.389Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Frequently",
+      "id": "4ecfe007-a8ee-4077-8580-9723989cac4b",
+      "createdAt": "2026-07-09T09:17:17.391Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Frequently",
+      "id": "6c5374fd-7116-4efc-8afb-e8a551660eca",
+      "createdAt": "2026-07-09T09:17:17.392Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Frequently",
+      "id": "0523a770-31d3-491c-a6ef-292562aa22b7",
+      "createdAt": "2026-07-09T09:17:17.393Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Frequently",
+      "id": "b38bcac2-fee4-4221-93e6-9d40b9acadff",
+      "createdAt": "2026-07-09T09:17:17.395Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Sometimes",
+      "id": "99052616-b381-4f3d-866f-0ece7b42be1f",
+      "createdAt": "2026-07-09T09:17:17.396Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Sometimes",
+      "id": "3870d799-8278-4734-98c9-82c472606a7b",
+      "createdAt": "2026-07-09T09:17:17.397Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Sometimes",
+      "id": "8351236c-1f56-419a-b9f7-22690f19d594",
+      "createdAt": "2026-07-09T09:17:17.399Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Sometimes",
+      "id": "4938efa2-520d-45c3-8a3b-63939309aab8",
+      "createdAt": "2026-07-09T09:17:17.400Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Sometimes",
+      "id": "05b25ffb-c8f2-424b-aa76-10ec8499000b",
+      "createdAt": "2026-07-09T09:17:17.401Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Sometimes",
+      "id": "5bb6c218-f070-48f7-9dcd-4da5686accdb",
+      "createdAt": "2026-07-09T09:17:17.403Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Sometimes",
+      "id": "984ee51a-842e-437d-871b-784f0c54daaa",
+      "createdAt": "2026-07-09T09:17:17.404Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Sometimes",
+      "id": "aa61ade3-3cfa-4698-b5ef-557937150dbb",
+      "createdAt": "2026-07-09T09:17:17.407Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Sometimes",
+      "id": "3658926c-991b-41e3-8af0-56bf21c37419",
+      "createdAt": "2026-07-09T09:17:17.408Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Sometimes",
+      "id": "45dda620-f7dd-497d-b281-ccd8f36c4d24",
+      "createdAt": "2026-07-09T09:17:17.410Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Sometimes",
+      "id": "a472b6d3-dd45-4302-8a28-2c78ebac3ecc",
+      "createdAt": "2026-07-09T09:17:17.412Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Sometimes",
+      "id": "362c8c25-2826-450e-b400-a515e1fd76c0",
+      "createdAt": "2026-07-09T09:17:17.414Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Sometimes",
+      "id": "f7fbc9e4-0fe0-47fa-8959-8839c2cf2d77",
+      "createdAt": "2026-07-09T09:17:17.417Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Sometimes",
+      "id": "1e5277d3-19f8-4eec-be45-867a794004df",
+      "createdAt": "2026-07-09T09:17:17.419Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Sometimes",
+      "id": "532a0d11-d90a-4f1d-9f24-8a8d2bf41b2f",
+      "createdAt": "2026-07-09T09:17:17.421Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Sometimes",
+      "id": "31a3e06f-2290-4259-bbcf-2e3ab4a7cc5b",
+      "createdAt": "2026-07-09T09:17:17.423Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Sometimes",
+      "id": "f2792bb0-2682-4ec9-b765-74f9cefc3960",
+      "createdAt": "2026-07-09T09:17:17.425Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Sometimes",
+      "id": "9f361d9f-6342-4aab-bc82-f5cc481fb8ef",
+      "createdAt": "2026-07-09T09:17:17.427Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Sometimes",
+      "id": "bec15fbc-6255-47b3-8860-271a1ebefdad",
+      "createdAt": "2026-07-09T09:17:17.428Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Sometimes",
+      "id": "4718a0f5-29d3-4c29-a54b-d04fef5c577d",
+      "createdAt": "2026-07-09T09:17:17.431Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Sometimes",
+      "id": "2c9b585c-2c67-4ede-8692-59882e3f86fe",
+      "createdAt": "2026-07-09T09:17:17.433Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Sometimes",
+      "id": "99178894-4644-416d-9a8a-1200842356df",
+      "createdAt": "2026-07-09T09:17:17.435Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Sometimes",
+      "id": "b8275bff-f71b-4254-9c2d-a898e3fb8fcc",
+      "createdAt": "2026-07-09T09:17:17.437Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Sometimes",
+      "id": "b64229c1-4004-4f3c-9cab-17c723db1883",
+      "createdAt": "2026-07-09T09:17:17.438Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Sometimes",
+      "id": "44c7eb4d-11c8-4a89-8670-9ac4a1db6301",
+      "createdAt": "2026-07-09T09:17:17.439Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Sometimes",
+      "id": "54ccc17f-a76d-49ff-b30b-04b9dc8e81d2",
+      "createdAt": "2026-07-09T09:17:17.440Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Sometimes",
+      "id": "e707e75e-9ac0-4243-a2e3-20df382c74b3",
+      "createdAt": "2026-07-09T09:17:17.442Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Sometimes",
+      "id": "25d1b61f-e2a3-4b93-b282-b1da1cdbf661",
+      "createdAt": "2026-07-09T09:17:17.444Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Sometimes",
+      "id": "73adfc4f-dc23-4aba-a3e5-cb014c95fc63",
+      "createdAt": "2026-07-09T09:17:17.446Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Sometimes",
+      "id": "3dde5651-5037-4c2a-81c7-508438539f29",
+      "createdAt": "2026-07-09T09:17:17.448Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Sometimes",
+      "id": "d9bb354f-5081-40cb-8eff-dcbee7213031",
+      "createdAt": "2026-07-09T09:17:17.449Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Sometimes",
+      "id": "69b3abbd-70e2-47c9-9a93-922cf9a01f38",
+      "createdAt": "2026-07-09T09:17:17.450Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Sometimes",
+      "id": "c91bfd98-d4dd-46d9-aa1c-eac5f815da81",
+      "createdAt": "2026-07-09T09:17:17.452Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Sometimes",
+      "id": "5c4dc4dd-408c-4542-b499-6e237fc43397",
+      "createdAt": "2026-07-09T09:17:17.453Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Sometimes",
+      "id": "00a0c085-b8f9-441f-be99-1c4ce326f994",
+      "createdAt": "2026-07-09T09:17:17.455Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Sometimes",
+      "id": "4593becf-aabd-44bd-83ed-1cb4d461369c",
+      "createdAt": "2026-07-09T09:17:17.456Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Sometimes",
+      "id": "c900d46e-62ab-463f-af03-55dcabcdecbc",
+      "createdAt": "2026-07-09T09:17:17.458Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Sometimes",
+      "id": "0a7616aa-a4ab-4fc8-b1d6-53c8580b5515",
+      "createdAt": "2026-07-09T09:17:17.459Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Sometimes",
+      "id": "d70106ca-1694-4f88-b7d8-0a6ce4dcb9f8",
+      "createdAt": "2026-07-09T09:17:17.461Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Sometimes",
+      "id": "03a1823c-4677-47f7-96cd-b3814e99b766",
+      "createdAt": "2026-07-09T09:17:17.463Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Sometimes",
+      "id": "dec316d2-7995-43f5-8798-f07a8a53f28d",
+      "createdAt": "2026-07-09T09:17:17.465Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Sometimes",
+      "id": "f2ef6a1f-beae-44c4-b3e2-7bbb598aa983",
+      "createdAt": "2026-07-09T09:17:17.468Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Sometimes",
+      "id": "8f109b9f-7611-4aa0-b1b6-1cc03a0772e6",
+      "createdAt": "2026-07-09T09:17:17.469Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Sometimes",
+      "id": "91d4516c-138d-4b12-95e3-26b3e4954029",
+      "createdAt": "2026-07-09T09:17:17.472Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Sometimes",
+      "id": "45ae7039-4484-4bd3-ab8d-6e2ba8f1d4de",
+      "createdAt": "2026-07-09T09:17:17.473Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Sometimes",
+      "id": "8c1cb9d1-2c47-4e18-a094-1ef72af9b40a",
+      "createdAt": "2026-07-09T09:17:17.474Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Sometimes",
+      "id": "98cd5247-1f10-40ba-a6b0-a7439ae71b0f",
+      "createdAt": "2026-07-09T09:17:17.475Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Sometimes",
+      "id": "8f5e68ed-b924-4d8b-a18b-65ea1ee02b52",
+      "createdAt": "2026-07-09T09:17:17.476Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Sometimes",
+      "id": "813a0fb6-78e5-463f-b3b2-d6e839a23075",
+      "createdAt": "2026-07-09T09:17:17.478Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Sometimes",
+      "id": "aa3b3bda-4953-4511-83d5-b7ce79635b32",
+      "createdAt": "2026-07-09T09:17:17.479Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Sometimes",
+      "id": "469ea117-07b6-46d5-814f-1b4adaad4065",
+      "createdAt": "2026-07-09T09:17:17.481Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Sometimes",
+      "id": "3358f0ae-9150-49be-a5c6-85be0dd0f9b1",
+      "createdAt": "2026-07-09T09:17:17.483Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Sometimes",
+      "id": "e95e2686-034f-470f-be98-e59f1867d9a5",
+      "createdAt": "2026-07-09T09:17:17.484Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Sometimes",
+      "id": "b9712cd6-c899-428d-8182-c640fd93e5b9",
+      "createdAt": "2026-07-09T09:17:17.486Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Sometimes",
+      "id": "a26def46-de18-4e38-b92d-7fc32d1614cb",
+      "createdAt": "2026-07-09T09:17:17.488Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Sometimes",
+      "id": "ed7d7349-dafb-4731-a449-f42099b44fec",
+      "createdAt": "2026-07-09T09:17:17.490Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Rarely",
+      "id": "c9b10844-db56-4541-b08d-451f7c305717",
+      "createdAt": "2026-07-09T09:17:17.491Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Rarely",
+      "id": "9c2556ca-0cac-4ecf-829a-6f6d863efed0",
+      "createdAt": "2026-07-09T09:17:17.493Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Rarely",
+      "id": "da29ac52-7d1f-47ee-8e2f-5bfe3f24177b",
+      "createdAt": "2026-07-09T09:17:17.495Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Rarely",
+      "id": "950dfa54-4761-444b-8b00-f1801066e084",
+      "createdAt": "2026-07-09T09:17:17.496Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Rarely",
+      "id": "4c044f41-66a8-4eda-a27c-261f0b3e7a35",
+      "createdAt": "2026-07-09T09:17:17.497Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Rarely",
+      "id": "44349f25-d8af-424f-bc9b-237b3a52857a",
+      "createdAt": "2026-07-09T09:17:17.499Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Rarely",
+      "id": "f39bf732-0627-4594-8d0d-6c554d0fd380",
+      "createdAt": "2026-07-09T09:17:17.501Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Rarely",
+      "id": "8a53e8f6-8204-444a-b3ce-aa31e382da4a",
+      "createdAt": "2026-07-09T09:17:17.503Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Rarely",
+      "id": "ffcf5551-8169-4e23-b868-92245703eab5",
+      "createdAt": "2026-07-09T09:17:17.504Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Rarely",
+      "id": "8cbc184e-ff50-4583-a780-f3d903e9ee52",
+      "createdAt": "2026-07-09T09:17:17.507Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Rarely",
+      "id": "9b82e740-c79f-4e14-8115-d56281a9e6b0",
+      "createdAt": "2026-07-09T09:17:17.509Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Rarely",
+      "id": "2c0d92d7-c647-42fc-bc86-221c5a79323e",
+      "createdAt": "2026-07-09T09:17:17.510Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Rarely",
+      "id": "1e222707-3953-422a-80d7-30ddac3b0986",
+      "createdAt": "2026-07-09T09:17:17.511Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Rarely",
+      "id": "6ca26e66-1acc-4d42-8d86-8b26211144cf",
+      "createdAt": "2026-07-09T09:17:17.514Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Rarely",
+      "id": "6c259b8a-5a23-4bef-9d11-17ccb8267a9a",
+      "createdAt": "2026-07-09T09:17:17.516Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Rarely",
+      "id": "5d1cc905-50e6-4627-8655-a4b73e280bf4",
+      "createdAt": "2026-07-09T09:17:17.520Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Rarely",
+      "id": "13511f5a-6bb9-4428-b542-4f34524ecf45",
+      "createdAt": "2026-07-09T09:17:17.522Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Rarely",
+      "id": "0dec365a-4b62-4c02-8331-73c4086a3de8",
+      "createdAt": "2026-07-09T09:17:17.523Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Never",
+      "id": "4e4c3073-0c4d-4c6f-bd95-5c8ba3368a1e",
+      "createdAt": "2026-07-09T09:17:17.525Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Never",
+      "id": "390a4eba-0fdb-4988-8bb2-23fc338ea487",
+      "createdAt": "2026-07-09T09:17:17.528Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Never",
+      "id": "7c98e4ec-601b-4068-8d71-46d5e12a5b2b",
+      "createdAt": "2026-07-09T09:17:17.530Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Never",
+      "id": "46ae5fe0-f9c4-4e1c-8d4f-d4363592e552",
+      "createdAt": "2026-07-09T09:17:17.532Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Never",
+      "id": "3e6bcc72-93e3-4571-9bb9-6f8305d0486d",
+      "createdAt": "2026-07-09T09:17:17.533Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Never",
+      "id": "9cd679c3-9a5d-452d-85e5-d62afcd97111",
+      "createdAt": "2026-07-09T09:17:17.535Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Never",
+      "id": "a66caba0-6b34-40cf-982e-097771cce6b7",
+      "createdAt": "2026-07-09T09:17:17.537Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Never",
+      "id": "db7469a7-37b6-40f8-8d1f-77c184e78899",
+      "createdAt": "2026-07-09T09:17:17.569Z"
+    },
+    {
+      "surveyId": "991d855a-cb33-48dc-bbff-504f302f3dc3",
+      "selectedOption": "Never",
+      "id": "3051175e-ec08-4150-ae46-7a52d59c06f9",
+      "createdAt": "2026-07-09T09:17:17.571Z"
+    }
+  ],
+  "achievement": [
+    {
+      "title": "Campus Integration Pilot",
+      "description": "Launched our privacy-first peer support system across 3 major Boston university areas.",
+      "date": "Fall 2025",
+      "metric": "3 Universities",
+      "category": "Campus",
+      "id": "33e2fbdd-2b2d-437e-8c26-aec94c198c14",
+      "createdAt": "2026-07-09T09:17:17.572Z"
+    },
+    {
+      "title": "Confidential Assessments",
+      "description": "Students completed anonymous mental health checkups, finding resources without registration.",
+      "date": "AY 2025-2026",
+      "metric": "15,000+ Completed",
+      "category": "Community",
+      "id": "138c58b2-a937-473e-b924-b8ef53185a80",
+      "createdAt": "2026-07-09T09:17:17.574Z"
+    },
+    {
+      "title": "Privacy Architecture Audit",
+      "description": "Eternia infrastructure verified as military-grade zero-knowledge encryption by external privacy audit.",
+      "date": "Spring 2026",
+      "metric": "100% Secure",
+      "category": "Eternia",
+      "id": "a6de7a1c-c0a1-4874-bb6f-ed203594acec",
+      "createdAt": "2026-07-09T09:17:17.576Z"
+    }
+  ],
+  "testimonial": [
+    {
+      "quote": "I felt like I was the only one failing. Reading these stories made me realize my anxiety is a physiological response, not a personal flaw.",
+      "authorName": "Marcus R.",
+      "authorRole": "Senior, Chemistry",
+      "approved": true,
+      "id": "a07dd4c1-7e79-4bbd-9ff9-9d39f395afa0",
+      "createdAt": "2026-07-09T09:17:17.578Z"
+    },
+    {
+      "quote": "The anonymous assessment allowed me to check in on my mental state without fear of it going onto my university record. It saved my semester.",
+      "authorName": "Sarah K.",
+      "authorRole": "Sophomore, Bio",
+      "approved": true,
+      "id": "ebe5c0a8-cfe7-48b0-a695-fbe6a6768b75",
+      "createdAt": "2026-07-09T09:17:17.579Z"
+    }
+  ],
+  "waitlist": []
+}
