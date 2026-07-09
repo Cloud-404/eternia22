@@ -5,18 +5,25 @@ import { BookOpen, FileText, Landmark, Newspaper } from "lucide-react";
 import prisma from "@/lib/prisma";
 import Link from "next/link";
 
+export const dynamic = "force-dynamic";
+
 export default async function PublicationsPage() {
   // Fetch publications from database (category: initiatives)
-  const dbPublications = await prisma.article.findMany({
-    where: {
-      status: "PUBLISHED",
-      category: {
-        slug: "initiatives",
+  let dbPublications: any[] = [];
+  try {
+    dbPublications = await prisma.article.findMany({
+      where: {
+        status: "PUBLISHED",
+        category: {
+          slug: "initiatives",
+        },
       },
-    },
-    include: { category: true },
-    orderBy: { publishedAt: "desc" },
-  });
+      include: { category: true },
+      orderBy: { publishedAt: "desc" },
+    });
+  } catch (error) {
+    console.error("Failed to fetch publications from database:", error);
+  }
 
   const papers = [
     {
