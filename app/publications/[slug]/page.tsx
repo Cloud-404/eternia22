@@ -70,7 +70,7 @@ export default async function PublicationDetailPage({ params }: PageProps) {
   return (
     <>
       <script
-        type="application/ld-json"
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 

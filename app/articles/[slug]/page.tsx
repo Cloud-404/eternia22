@@ -70,7 +70,7 @@ export default async function ArticleDetailPage({ params }: PageProps) {
     <>
       {/* Insert JSON-LD Structured Data in head */}
       <script
-        type="application/ld-json"
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 
