@@ -3,6 +3,8 @@
 import React, { useState, useEffect, useRef } from "react";
 import { Mail, Loader2, CheckCircle2, ShieldCheck, Sparkles } from "lucide-react";
 import { motion, AnimatePresence } from "framer-motion";
+import { db } from "@/lib/firebase";
+import { doc, onSnapshot, updateDoc, increment } from "firebase/firestore";
 
 export default function WaitlistForm() {
   const [email, setEmail] = useState("");
@@ -31,6 +33,37 @@ export default function WaitlistForm() {
     }
     fetchCount();
   }, []);
+
+  // Listen to Firestore real-time updates
+  useEffect(() => {
+    if (!db) return;
+
+    try {
+      const docRef = doc(db, "waitlist", "counter");
+      const unsubscribe = onSnapshot(
+        docRef,
+        (docSnap) => {
+          if (docSnap.exists()) {
+            const data = docSnap.data();
+            if (data && typeof data.count === "number") {
+              setCount(data.count);
+              if (hasAnimated) {
+                setDisplayCount(data.count);
+              }
+            }
+          } else {
+            console.warn("Firestore document waitlist/counter does not exist.");
+          }
+        },
+        (error) => {
+          console.error("Firestore onSnapshot error:", error);
+        }
+      );
+      return () => unsubscribe();
+    } catch (e) {
+      console.error("Failed to set up Firestore snapshot listener:", e);
+    }
+  }, [hasAnimated]);
 
   // Scroll count-up animation when visible
   useEffect(() => {
@@ -94,16 +127,35 @@ export default function WaitlistForm() {
       const data = await res.json();
 
       if (res.ok) {
+        // Increment Firestore count atomically if initialized
+        if (db) {
+          try {
+            const docRef = doc(db, "waitlist", "counter");
+            await updateDoc(docRef, {
+              count: increment(1),
+            });
+          } catch (fireErr) {
+            console.error("Failed to increment waitlist counter in Firestore:", fireErr);
+            // Fallback to SQLite count if Firestore update fails
+            if (data.count) {
+              setCount(data.count);
+              setDisplayCount(data.count);
+            }
+          }
+        } else {
+          // Fallback to SQLite count if Firebase is not configured
+          if (data.count) {
+            setCount(data.count);
+            setDisplayCount(data.count);
+          }
+        }
+
         setStatus("success");
         setMessage(
           isAnonymous
             ? "Welcome! You've joined the waitlist anonymously."
             : "Welcome! You've been added to the waitlist."
         );
-        if (data.count) {
-          setCount(data.count);
-          setDisplayCount(data.count);
-        }
         setEmail("");
       } else {
         setStatus("error");
